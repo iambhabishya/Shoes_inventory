@@ -1,0 +1,9 @@
+invoice_id:RSTK-20250825-185244
+date:2025-08-25 18:52:44
+vendor:Shoes City
+item:model=NB 550;brand=New Balance;qty=200;unit_price=5000.0;origin=international;line_total=1000000.0
+subtotal:1000000.0
+vat_amount:130000.0
+grand_total:1130000.0
+invoice_path:RSTK-20250825-185244.txt
+---

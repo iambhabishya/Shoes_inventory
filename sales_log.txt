@@ -1,0 +1,23 @@
+invoice_id:SALE-20250825-173348
+date:2025-08-25 17:33:48
+customer:Bhabishya
+item:model=Lite Racer;brand=Adidas;origin=international;qty=10;unit_price=7000.0;subtotal=70000.0;discount_rate=0.0;discount_amount=0.0;total=70000.0
+item:model=Samba;brand=Adidas;origin=international;qty=10;unit_price=3700.0;subtotal=37000.0;discount_rate=0.0;discount_amount=0.0;total=37000.0
+item:model=converse;brand=All star;origin=international;qty=10;unit_price=3200.0;subtotal=32000.0;discount_rate=0.0;discount_amount=0.0;total=32000.0
+grand_subtotal:139000.0
+grand_discount:0.0
+vat_amount:18070.0
+grand_total:157070.0
+invoice_path:SALE-20250825-173348.txt
+---
+invoice_id:SALE-20250828-124050
+date:2025-08-28 12:40:50
+customer:Bhabishya
+item:model=Lite Racer;brand=Adidas;origin=international;qty=10;unit_price=7000.0;subtotal=70000.0;discount_rate=0.0;discount_amount=0.0;total=70000.0
+item:model=Samba;brand=Adidas;origin=international;qty=15;unit_price=3700.0;subtotal=55500.0;discount_rate=0.05;discount_amount=2775.0;total=52725.0
+grand_subtotal:125500.0
+grand_discount:2775.0
+vat_amount:15954.25
+grand_total:138679.25
+invoice_path:SALE-20250828-124050.txt
+---
