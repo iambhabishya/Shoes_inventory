@@ -8,7 +8,7 @@ def write_inventory(path, inventory):
     
     """
     lines = []
-    # Sort items by brand and model for consistent file output
+    # Sort items by brand also with its model for consistent file output
     sorted_items = sorted(inventory.values(), key=lambda x: (x['brand'], x['model']))
     
     for item in sorted_items:
