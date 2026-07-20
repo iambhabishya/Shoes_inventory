@@ -266,7 +266,7 @@ def do_restock_existing(sys):
         print(f"Adding: {qty} units")
         print(f"New total stock: {new_stock} units")
         print(f"Price: Rs. {price:.2f}")
-        print(f"Total cost before VAT: Rs. {total_cost:,.2f}")
+        print(f"Total cost before VAT is : Rs. {total_cost:,.2f}")
         print(f"VAT (13%): Rs. {total_cost * 0.13:,.2f}")
         print(f"Total cost after VAT: Rs. {total_cost * 1.13:,.2f}")
         
