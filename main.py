@@ -8,7 +8,7 @@ from Operation import ShoesWholesaleSystem
 
 def clear_screen():
     """
-    It restore and clear the screen by printing many new lines.
+    It restore and also clear the screen by printing many new lines.
     It helps to refresh interface during repated menu display.
     """
     print("\n" * 50)
